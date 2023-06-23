@@ -7,9 +7,9 @@ public class ReverseStringImpl implements ReverseString {
     public String reverseString(String str) {
 
         String sb = "";
-       for(int i=str.length()-1; i >=0 ; i--){
-           sb += str.charAt(i);
-       }
+        for (int i = str.length() - 1; i >= 0; i--) {
+            sb += str.charAt(i);
+        }
         return sb;
     }
 }
