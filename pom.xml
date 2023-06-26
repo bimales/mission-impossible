@@ -5,6 +5,8 @@
 	<packaging>pom</packaging>
 	<modules>
 		<module>reverse-string-funtional-interface</module>
+		<module>gRpc-communication</module>
+		<module>bubble-sort</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>

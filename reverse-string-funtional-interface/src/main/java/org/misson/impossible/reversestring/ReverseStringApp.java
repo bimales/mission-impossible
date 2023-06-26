@@ -7,9 +7,7 @@ public class ReverseStringApp {
 
     public static void main(String[] args) {
 
-        ReverseString rs;
-
-        rs = (str) -> {
+        ReverseString rs = (str) -> {
 
             String rstr = "";
             for (int i = str.length() - 1; i >= 0; i--) {
