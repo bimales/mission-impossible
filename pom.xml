@@ -7,6 +7,7 @@
 		<module>reverse-string-funtional-interface</module>
 		<module>gRpc-communication</module>
 		<module>bubble-sort</module>
+		<module>binary-search</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
