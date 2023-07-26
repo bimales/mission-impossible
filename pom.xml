@@ -8,6 +8,9 @@
 		<module>gRpc-communication</module>
 		<module>bubble-sort</module>
 		<module>binary-search</module>
+		<module>palindrome-number</module>
+		<module>funtional-interface</module>
+		<module>longest-common-prefix</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
