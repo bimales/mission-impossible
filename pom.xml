@@ -11,7 +11,9 @@
 		<module>palindrome-number</module>
 		<module>funtional-interface</module>
 		<module>longest-common-prefix</module>
-	</modules>
+        <module>first-occurrence-index</module>
+        <module>singleton-pattern-enum</module>
+    </modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
