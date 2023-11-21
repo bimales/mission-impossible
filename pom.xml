@@ -13,7 +13,8 @@
 		<module>longest-common-prefix</module>
         <module>first-occurrence-index</module>
         <module>singleton-pattern-enum</module>
-    </modules>
+		<module>employee-search-attributes</module>
+	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
