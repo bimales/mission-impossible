@@ -1,6 +1,6 @@
-package org.misson.impossible.employeesearch.service;
+package org.misson.impossible.employeesort.service;
 
-import org.misson.impossible.employeesearch.model.Employee;
+import org.misson.impossible.employeesort.model.Employee;
 
 import java.util.List;
 

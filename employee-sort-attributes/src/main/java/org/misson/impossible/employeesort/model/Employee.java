@@ -1,4 +1,4 @@
-package org.misson.impossible.employeesearch.model;
+package org.misson.impossible.employeesort.model;
 
 import lombok.Builder;
 

@@ -13,7 +13,8 @@
 		<module>longest-common-prefix</module>
         <module>first-occurrence-index</module>
         <module>singleton-pattern-enum</module>
-		<module>employee-search-attributes</module>
+		<module>employee-sort-attributes</module>
+		<module>fibonacci-series</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
